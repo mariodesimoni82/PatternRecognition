@@ -1,0 +1,5 @@
+service\RecognitionService.class
+application\Application.class
+controller\RecognitionController.class
+model\DoublePair.class
+model\Point.class
